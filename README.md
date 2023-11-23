@@ -12,6 +12,8 @@ Written in Python using numpy and matplot. UI for 3D linear transformations on w
   * Pitch
   * Yaw
   * Translation along all axis
+ 
+## Demo:
 
 <img width="960" alt="house" src="https://github.com/EricNohara/3D-Graphics-Wireframe-UI/assets/123284198/fe26c70a-6ed8-4b14-9d20-1dd478f76d1a">
 
